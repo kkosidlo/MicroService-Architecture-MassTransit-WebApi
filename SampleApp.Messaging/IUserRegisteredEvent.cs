@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SampleApp.Messaging
+{
+    public interface IUserRegisteredEvent
+    {
+        int UserId { get; }
+        string FirstName { get; }
+        string LastName { get; }
+        string Address { get; }
+        int Age { get; }
+        int IdNumber { get; }
+    }
+}

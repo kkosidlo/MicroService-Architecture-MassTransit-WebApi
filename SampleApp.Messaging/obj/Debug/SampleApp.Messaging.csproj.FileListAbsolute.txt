@@ -1,0 +1,17 @@
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\SampleApp.Messaging.dll
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\SampleApp.Messaging.pdb
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\GreenPipes.dll
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\MassTransit.dll
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\MassTransit.RabbitMqTransport.dll
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\NewId.dll
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\Newtonsoft.Json.dll
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\RabbitMQ.Client.dll
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\GreenPipes.xml
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\MassTransit.xml
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\MassTransit.RabbitMqTransport.xml
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\Newtonsoft.Json.xml
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\bin\Debug\RabbitMQ.Client.xml
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\obj\Debug\SampleApp.Messaging.csprojResolveAssemblyReference.cache
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\obj\Debug\SampleApp.Messaging.csproj.CoreCompileInputs.cache
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\obj\Debug\SampleApp.Messaging.dll
+c:\users\kacper\source\repos\SampleApp.Web\SampleApp.Messaging\obj\Debug\SampleApp.Messaging.pdb
